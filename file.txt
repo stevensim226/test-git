@@ -1,2 +1,2 @@
 Hello World!
-Master's second line
+This is the second line.
